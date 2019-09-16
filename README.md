@@ -37,7 +37,7 @@
 - [4D绘图测试 / Graphics Text 4D](https://github.com/chibayuki/GraphicsText4D)
 
 ## 新闻动态 / News
-- 我们正在着手Com 19v2版本（也许是19.10）的发行准备工作，除了一般的性能优化与问题修复外，该版本还将带来重新设计的ColorX以及其他新特性 / We are preparing for the release of Com 19v2 (perhaps 19.10), which will bring new features such as redesigned ColorX and general performance optimizations and problem fixes.
+- 我们正在着手Com 19v2版本（也许是19.10）的发行准备工作，除了一般的性能优化与问题修复外，该版本还将带来重新设计的ColorX以及其他新特性 / We are preparing for the release of Com 19v2 (perhaps 19.10), which will bring new features such as redesigned ColorX, and also bring general performance optimizations and problem fixes.
 - 我们正在着手[多体系统模拟](https://github.com/chibayuki/MultibodySystemSimulation)与[调色板](https://github.com/chibayuki/ColorPalette)两个新项目的开发，预计将在年内发行首个正式版本 / We are working on two new projects, [MultibodySystemSimulation](https://github.com/chibayuki/MultibodySystemSimulation) and [Color Palette](https://github.com/chibayuki/ColorPalette), which might be released within this year.
 
 ## 联系我们 / Contact Us
