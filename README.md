@@ -7,7 +7,7 @@
 - 最后，请获取[Com](https://github.com/chibayuki/Com) / And, here is the [Com](https://github.com/chibayuki/Com).
 
 ## 新闻 / News
-- 我们正在准备Com 2019 v2版本（也许是19.10）的发行工作，除了一般的性能优化与问题修复外，该版本还将带来重新设计的ColorX以及其他新特性 / We are preparing for the release of Com 2019 v2 (perhaps 19.10), which will bring new features such as redesigned ColorX and general performance optimizations and problem fixes.
+- 我们正在着手Com 2019 v2版本（也许是19.10）的发行准备工作，除了一般的性能优化与问题修复外，该版本还将带来重新设计的ColorX以及其他新特性 / We are preparing for the release of Com 2019 v2 (perhaps 19.10), which will bring new features such as redesigned ColorX and general performance optimizations and problem fixes.
 - 我们正在着手[多体系统模拟](https://github.com/chibayuki/MultibodySystemSimulation)与[Color Palette](https://github.com/chibayuki/ColorPalette)两个新项目的开发，预计将在年内发行首个正式版本 / We are working on two new projects, [MultibodySystemSimulation](https://github.com/chibayuki/MultibodySystemSimulation) and [调色板](https://github.com/chibayuki/ColorPalette), which might be released within this year.
 
 ## 导航 / Navigation
