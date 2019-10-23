@@ -1,4 +1,6 @@
 ## 资讯动态 / News
+#### 2019年10月22日 周二 / 2019.10.22 Tue
+###### 正在尝试[引用计数](https://github.com/chibayuki/RefCounter)与[序列化](https://github.com/chibayuki/Serialize)的C++实现 / We are trying to implement [RefCounter](https://github.com/chibayuki/RefCounter) and [Serialize](https://github.com/chibayuki/Serialize) by C++.
 #### 2019年10月17日 周四 / 2019.10.17 Thur
 ###### [AT89S52计算器](https://github.com/chibayuki/AT89S52Calculator)已经开源，包含单片机代码、PCB图纸以及模拟器 / We have open-source [AT89S52 Calculator](https://github.com/chibayuki/AT89S52Calculator), which include MCU code, PCB diagram, and a simulator.
 #### 2019年10月15日 周二 / 2019.10.15 Tue
