@@ -48,7 +48,7 @@
 - \[2019.10.17\] We have open-source [AT89S52 Calculator](https://github.com/chibayuki/AT89S52Calculator), which include MCU code, PCB diagram, and a simulator.
 - \[2019.10.15\] "RC4" Pre-Rel of [Com](https://github.com/chibayuki/Com) 19v2 is committed to [Commit:cc8840065b0513a6bbf531995842e1fbfff88456](https://github.com/chibayuki/Com/commit/cc8840065b0513a6bbf531995842e1fbfff88456).
 - \[2019.09.16\] We are working on two new projects, [Multibody System Simulation](https://github.com/chibayuki/MultibodySystemSimulation) and [Color Palette](https://github.com/chibayuki/ColorPalette), which might be released within this year.
-###### [Read more](News_1033.md)
+###### [Read more……](News_1033.md)
 
 ## Contact Us
 - E-mail: chibayuki@foxmail.com
