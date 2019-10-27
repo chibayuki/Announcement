@@ -44,10 +44,10 @@
 * \[C++\] [Serialize](https://github.com/chibayuki/Serialize)
 
 ## News
-* \[2019.10.22\] We are trying to implement [RefCounter](https://github.com/chibayuki/RefCounter) and [Serialize](https://github.com/chibayuki/Serialize) by C++.
-* \[2019.10.17\] We have open-source [AT89S52 Calculator](https://github.com/chibayuki/AT89S52Calculator), which include MCU code, PCB diagram, and a simulator.
-* \[2019.10.15\] "RC4" Pre-Rel of [Com](https://github.com/chibayuki/Com) 19v2 is committed to [Commit:cc8840065b0513a6bbf531995842e1fbfff88456](https://github.com/chibayuki/Com/commit/cc8840065b0513a6bbf531995842e1fbfff88456).
-* \[2019.09.16\] We are working on two new projects, [Multibody System Simulation](https://github.com/chibayuki/MultibodySystemSimulation) and [Color Palette](https://github.com/chibayuki/ColorPalette), which might be released within this year.
+* \[2019 Oct 27\] [Com](https://github.com/chibayuki/Com) 19v2 is released, the version number is [19.10.14.2100](https://github.com/chibayuki/Com/releases/tag/19.10.14.2100).
+* \[2019 Oct 22\] We are trying to implement [RefCounter](https://github.com/chibayuki/RefCounter) and [Serialize](https://github.com/chibayuki/Serialize) by C++.
+* \[2019 Oct 17\] We have open-source [AT89S52 Calculator](https://github.com/chibayuki/AT89S52Calculator), which include MCU code, PCB diagram, and a simulator.
+* \[2019 Sep 16\] We are working on two new projects, [Multibody System Simulation](https://github.com/chibayuki/MultibodySystemSimulation) and [Color Palette](https://github.com/chibayuki/ColorPalette), which might be released within this year.
 ###### [Read more……](News_1033.md)
 
 ## Contact Us
