@@ -44,10 +44,10 @@
 * \[C++\] [序列化](https://github.com/chibayuki/Serialize)
 
 ## 资讯动态
-* \[2019.10.22\] 正在尝试[引用计数](https://github.com/chibayuki/RefCounter)与[序列化](https://github.com/chibayuki/Serialize)的C++实现。
-* \[2019.10.17\] [AT89S52计算器](https://github.com/chibayuki/AT89S52Calculator)已经开源，包含单片机代码、PCB图纸以及模拟器。
-* \[2019.10.15\] [Com](https://github.com/chibayuki/Com) 19v2 RC4发行预览版本已提交，参见[Commit:cc8840065b0513a6bbf531995842e1fbfff88456](https://github.com/chibayuki/Com/commit/cc8840065b0513a6bbf531995842e1fbfff88456)。
-* \[2019.09.16\] 正在开发2个新项目[多体系统模拟](https://github.com/chibayuki/MultibodySystemSimulation)与[调色板](https://github.com/chibayuki/ColorPalette)，预计将在年内发行首个正式版本。
+* \[2019年10月27日\] [Com](https://github.com/chibayuki/Com) 19v2已发布，版本号[19.10.14.2100](https://github.com/chibayuki/Com/releases/tag/19.10.14.2100)。
+* \[2019年10月22日\] 正在尝试[引用计数](https://github.com/chibayuki/RefCounter)与[序列化](https://github.com/chibayuki/Serialize)的C++实现。
+* \[2019年10月17日\] [AT89S52计算器](https://github.com/chibayuki/AT89S52Calculator)已经开源，包含单片机代码、PCB图纸以及模拟器。
+* \[2019年9月16日\] 正在开发2个新项目[多体系统模拟](https://github.com/chibayuki/MultibodySystemSimulation)与[调色板](https://github.com/chibayuki/ColorPalette)，预计将在年内发行首个正式版本。
 ###### [查看更多……](News_2052.md)
 
 ## 联系我们
