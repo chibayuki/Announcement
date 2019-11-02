@@ -44,10 +44,10 @@
 * \[C++\] [序列化](https://github.com/chibayuki/Serialize)
 
 ## 资讯动态
+* \[2019年11月2日\] [Com性能测试](https://github.com/chibayuki/ComPerfTest)即将同时兼容Com的18.9.28.2200、19.5.11.1720、19.10.14.2100版本，从而生成更易于比较的测试报告。
 * \[2019年10月27日\] [Com](https://github.com/chibayuki/Com) 19v2已发布，版本号[19.10.14.2100](https://github.com/chibayuki/Com/releases/tag/19.10.14.2100)。
 * \[2019年10月22日\] 正在尝试[引用计数](https://github.com/chibayuki/RefCounter)与[序列化](https://github.com/chibayuki/Serialize)的C++实现。
-* \[2019年10月17日\] [AT89S52计算器](https://github.com/chibayuki/AT89S52Calculator)已经开源，包含单片机代码、PCB图纸以及模拟器。
-* \[2019年9月16日\] 正在开发2个新项目[多体系统模拟](https://github.com/chibayuki/MultibodySystemSimulation)与[调色板](https://github.com/chibayuki/ColorPalette)，预计将在年内发行首个正式版本。
+* \[2019年10月17日\] [AT89S52计算器](https://github.com/chibayuki/AT89S52Calculator)已开源，包含单片机代码、PCB图纸以及模拟器。
 ###### [查看更多……](News_2052.md)
 
 ## 联系我们
