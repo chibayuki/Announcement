@@ -44,10 +44,8 @@
 * \[C++\] [Serialize](https://github.com/chibayuki/Serialize)
 
 ## News
-* \[2019 Nov 2\] [Com Performance Test](https://github.com/chibayuki/ComPerfTest) is going to be compatible with Com 18.9.28.2200, 19.5.11.1720 and 19.10.14.2100, so that it could generate reports easier to be compared.
+* \[2019 Dec 2\]\ [Com Performance Test](https://github.com/chibayuki/ComPerfTest) version [19.11.25.1900](https://github.com/chibayuki/ComPerfTest/releases/tag/19.11.25.1900) is released, which is compatible with Com 18.9.28.2200, 19.5.11.1720 and 19.10.14.2100. Test reports will be upload to [ComPerfReport](https://github.com/chibayuki/ComPerfReport) in days.
 * \[2019 Oct 27\] [Com](https://github.com/chibayuki/Com) 19v2 is released, the version number is [19.10.14.2100](https://github.com/chibayuki/Com/releases/tag/19.10.14.2100).
-* \[2019 Oct 22\] We are trying to implement [RefCounter](https://github.com/chibayuki/RefCounter) and [Serialize](https://github.com/chibayuki/Serialize) by C++.
-* \[2019 Oct 17\] We have open-source [AT89S52 Calculator](https://github.com/chibayuki/AT89S52Calculator), which include MCU code, PCB diagram, and a simulator.
 ###### [Read more……](News_1033.md)
 
 ## Contact Us
