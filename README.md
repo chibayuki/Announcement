@@ -44,7 +44,7 @@
 * \[C++\] [序列化](https://github.com/chibayuki/Serialize)
 
 ## 资讯动态
-* \[2019年12月2日\] [Com性能测试](https://github.com/chibayuki/ComPerfTest)已发布版本[19.11.25.1900](https://github.com/chibayuki/ComPerfTest/releases/tag/19.11.25.1900)，同时兼容Com的18.9.28.2200、19.5.11.1720、19.10.14.2100版本。测试报告将在近日上传至[ComPerfReport](https://github.com/chibayuki/ComPerfReport)。
+* \[2019年12月2日\] [Com性能测试](https://github.com/chibayuki/ComPerfTest)已发布版本[19.11.25.1900](https://github.com/chibayuki/ComPerfTest/releases/tag/19.11.25.1900)，同时兼容Com的18.9.28.2200、19.5.11.1720、19.10.14.2100版本。测试报告将在近日上传至[Com性能报告](https://github.com/chibayuki/ComPerfReport)。
 * \[2019年10月27日\] [Com](https://github.com/chibayuki/Com) 19v2已发布，版本号[19.10.14.2100](https://github.com/chibayuki/Com/releases/tag/19.10.14.2100)。
 ###### [查看更多……](News_2052.md)
 
