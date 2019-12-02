@@ -44,7 +44,7 @@
 * \[C++\] [Serialize](https://github.com/chibayuki/Serialize)
 
 ## News
-* \[2019 Dec 2\]\ [Com Performance Test](https://github.com/chibayuki/ComPerfTest) version [19.11.25.1900](https://github.com/chibayuki/ComPerfTest/releases/tag/19.11.25.1900) is released, which is compatible with Com 18.9.28.2200, 19.5.11.1720 and 19.10.14.2100. Test reports will be upload to [ComPerfReport](https://github.com/chibayuki/ComPerfReport) in days.
+* \[2019 Dec 2\] [Com Performance Test](https://github.com/chibayuki/ComPerfTest) version [19.11.25.1900](https://github.com/chibayuki/ComPerfTest/releases/tag/19.11.25.1900) is released, which is compatible with Com 18.9.28.2200, 19.5.11.1720 and 19.10.14.2100. Test reports will be upload to [ComPerfReport](https://github.com/chibayuki/ComPerfReport) in days.
 * \[2019 Oct 27\] [Com](https://github.com/chibayuki/Com) 19v2 is released, the version number is [19.10.14.2100](https://github.com/chibayuki/Com/releases/tag/19.10.14.2100).
 ###### [Read more……](News_1033.md)
 
