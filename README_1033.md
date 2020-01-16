@@ -40,8 +40,9 @@
 
 #### Others
 * \[C, C#, Doc\] [AT89S52 Calculator](https://github.com/chibayuki/AT89S52Calculator)
-* \[C++\] [RefCounter](https://github.com/chibayuki/RefCounter)
+* \[C++\] [Ref Counter](https://github.com/chibayuki/RefCounter)
 * \[C++\] [Serialize](https://github.com/chibayuki/Serialize)
+* \[C++\] [Full Permutation](https://github.com/chibayuki/FullPermutation)
 
 ## News
 * \[2019 Dec 2\] [Com Performance Test](https://github.com/chibayuki/ComPerfTest) version [19.11.25.1900](https://github.com/chibayuki/ComPerfTest/releases/tag/19.11.25.1900) is released, which is compatible with Com 18.9.28.2200, 19.5.11.1720 and 19.10.14.2100. Test reports will be upload to [ComPerfReport](https://github.com/chibayuki/ComPerfReport) in days.
