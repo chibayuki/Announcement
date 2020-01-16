@@ -42,6 +42,7 @@
 * \[C, C#, Doc\] [AT89S52计算器](https://github.com/chibayuki/AT89S52Calculator)
 * \[C++\] [引用计数](https://github.com/chibayuki/RefCounter)
 * \[C++\] [序列化](https://github.com/chibayuki/Serialize)
+* \[C++\] [全排列](https://github.com/chibayuki/FullPermutation)
 
 ## 资讯动态
 * \[2019年12月2日\] [Com性能测试](https://github.com/chibayuki/ComPerfTest)已发布版本[19.11.25.1900](https://github.com/chibayuki/ComPerfTest/releases/tag/19.11.25.1900)，同时兼容Com的18.9.28.2200、19.5.11.1720、19.10.14.2100版本。测试报告将在近日上传至[Com性能报告](https://github.com/chibayuki/ComPerfReport)。
