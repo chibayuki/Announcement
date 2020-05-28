@@ -46,7 +46,7 @@
 * \[C++\] [数独求解算法](https://github.com/chibayuki/SudokuAlgorithm)
 
 ## 资讯动态
-* \[2020年4月11日\] 正在为[Com](https://github.com/chibayuki/Com)重新设计仿射变换接口，将在下个发行版本中提供更强大的仿射变换支持。
+* \[2020年5月28日\] [Com](https://github.com/chibayuki/Com) 20v1 RC1发行预览版本已提交，参见[Commit:6d1bbce0966304182d3d0edf2d30a2e21205c297](https://github.com/chibayuki/Com/commit/6d1bbce0966304182d3d0edf2d30a2e21205c297)。
 * \[2020年2月19日\] 已提交一种[数独求解算法](https://github.com/chibayuki/SudokuAlgorithm)算法的C++实现，该算法来自[数独](https://github.com/chibayuki/Sudoku)游戏。
 * \[2020年1月16日\] 已提交一种基于递增进位制数的[全排列](https://github.com/chibayuki/FullPermutation)算法的C++实现。
 ###### [查看更多……](News_2052.md)
