@@ -46,7 +46,7 @@
 * \[C++\] [Sudoku Algorithm](https://github.com/chibayuki/SudokuAlgorithm)
 
 ## News
-* \[2020 Apr 11\] We are re-designing interfaces of affine transformation for [Com](https://github.com/chibayuki/Com), more powerful supporting for affine transformations will be provided in next release.
+* \[2020 May 28\] "RC1" Pre-Rel of [Com](https://github.com/chibayuki/Com) 20v1 is committed to [Commit:6d1bbce0966304182d3d0edf2d30a2e21205c297](https://github.com/chibayuki/Com/commit/6d1bbce0966304182d3d0edf2d30a2e21205c297).
 * \[2020 Feb 19\] We have committed an implementation of [Sudoku Algorithm](https://github.com/chibayuki/SudokuAlgorithm) by C++, which is used by [Sudoku](https://github.com/chibayuki/Sudoku).
 * \[2020 Jan 16\] We have committed an implementation of [Full Permutation](https://github.com/chibayuki/FullPermutation) based on stage carry by C++.
 ###### [Read more……](News_1033.md)
