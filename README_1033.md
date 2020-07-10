@@ -46,9 +46,9 @@
 * \[C++\] [Sudoku Algorithm](https://github.com/chibayuki/SudokuAlgorithm)
 
 ## News
+* \[2020 Jul 10\] A new version of [Hopscotch](https://github.com/chibayuki/Hopscotch) is released, which fixed bugs, not include new features, the version number is [7.1.9](https://github.com/chibayuki/Hopscotch/releases/tag/7.1.17000.1880.R9.200704-1620).
+* \[2020 Jul 10\] A new version of [Gomoku](https://github.com/chibayuki/Gomoku) is released, which fixed bugs, not include new features, the version number is [7.1.19](https://github.com/chibayuki/Gomoku/releases/tag/7.1.17000.7840.R19.200704-1620).
 * \[2020 May 28\] "RC1" Pre-Rel of [Com](https://github.com/chibayuki/Com) 20v1 is committed to [Commit:6d1bbce0966304182d3d0edf2d30a2e21205c297](https://github.com/chibayuki/Com/commit/6d1bbce0966304182d3d0edf2d30a2e21205c297).
-* \[2020 Feb 19\] We have committed an implementation of [Sudoku Algorithm](https://github.com/chibayuki/SudokuAlgorithm) by C++, which is used by [Sudoku](https://github.com/chibayuki/Sudoku).
-* \[2020 Jan 16\] We have committed an implementation of [Full Permutation](https://github.com/chibayuki/FullPermutation) based on stage carry by C++.
 ###### [Read more……](News_1033.md)
 
 ## Contact Us
