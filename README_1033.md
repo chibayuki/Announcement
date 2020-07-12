@@ -9,12 +9,12 @@
 * And, here is the [Com](https://github.com/chibayuki/Com).
 
 ## Navigation
-#### Framework
+### Framework
 * \[C#\] [Com](https://github.com/chibayuki/Com)
 * \[Doc\] [Com Compatibility Report](https://github.com/chibayuki/ComCmptReport)
 * \[C#\] [WinForm App Template](https://github.com/chibayuki/WinFormAppTemplate)
 
-#### Game
+### Game
 * \[C#\] [Gomoku](https://github.com/chibayuki/Gomoku)
 * \[C#\] [Sudoku](https://github.com/chibayuki/Sudoku)
 * \[C#\] [Jigsaw Puzzle](https://github.com/chibayuki/JigsawPuzzle)
@@ -22,23 +22,23 @@
 * \[C#\] [Eliminate](https://github.com/chibayuki/Eliminate)
 * \[C#\] [2048](https://github.com/chibayuki/2048)
 
-#### Tools
+### Tools
 * \[C#\] [Livedesk](https://github.com/chibayuki/Livedesk)
 * \[C#\] [Color Palette](https://github.com/chibayuki/ColorPalette)
 * \[C#\] [Factorial Calculator](https://github.com/chibayuki/FactorialCalculator)
 * \[C#\] [Power Calculator](https://github.com/chibayuki/PowerCalculator)
 * \[C#\] [Permutation And Combination](https://github.com/chibayuki/PermutationAndCombination)
 
-#### Simulation
+### Simulation
 * \[C#\] [Multibody System Simulation](https://github.com/chibayuki/MultibodySystemSimulation)
 
-#### Testing
+### Testing
 * \[C#\] [Com Performance Test](https://github.com/chibayuki/ComPerfTest)
 * \[C#\] [FormManager Test](https://github.com/chibayuki/FormManagerTest)
 * \[C#\] [Graphics Text 3D](https://github.com/chibayuki/GraphicsText3D)
 * \[C#\] [Graphics Text 4D](https://github.com/chibayuki/GraphicsText4D)
 
-#### Others
+### Others
 * \[C, C#, Doc\] [AT89S52 Calculator](https://github.com/chibayuki/AT89S52Calculator)
 * \[C++\] [Ref Counter](https://github.com/chibayuki/RefCounter)
 * \[C++\] [Serialize](https://github.com/chibayuki/Serialize)
