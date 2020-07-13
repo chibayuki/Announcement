@@ -46,9 +46,9 @@
 * \[C++\] [数独求解算法](https://github.com/chibayuki/SudokuAlgorithm)
 
 ## 资讯动态
+* \[2020年7月13日\] [Com](https://github.com/chibayuki/Com) 20v1 RC2发行预览版本已提交，参见[Commit:e547ce80c01c443944440aae704c2ca6b1455612](https://github.com/chibayuki/Com/commit/e547ce80c01c443944440aae704c2ca6b1455612)。
 * \[2020年7月10日\] [跳方格](https://github.com/chibayuki/Hopscotch) 已发布新版本，该版本修复了问题，不包含新特性，版本号[7.1.9](https://github.com/chibayuki/Hopscotch/releases/tag/7.1.17000.1880.R9.200704-1620)。
 * \[2020年7月10日\] [五子棋](https://github.com/chibayuki/Gomoku) 已发布新版本，该版本修复了问题，不包含新特性，版本号[7.1.19](https://github.com/chibayuki/Gomoku/releases/tag/7.1.17000.7840.R19.200704-1620)。
-* \[2020年5月28日\] [Com](https://github.com/chibayuki/Com) 20v1 RC1发行预览版本已提交，参见[Commit:6d1bbce0966304182d3d0edf2d30a2e21205c297](https://github.com/chibayuki/Com/commit/6d1bbce0966304182d3d0edf2d30a2e21205c297)。
 ###### [查看更多……](News_2052.md)
 
 ## 联系我们
