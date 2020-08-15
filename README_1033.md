@@ -46,7 +46,7 @@
 * \[C++\] [Sudoku Algorithm](https://github.com/chibayuki/SudokuAlgorithm)
 
 ## News
-* \[2020 Jul 13\] "RC2" Pre-Rel of [Com](https://github.com/chibayuki/Com) 20v1 is committed to [Commit:e547ce80c01c443944440aae704c2ca6b1455612](https://github.com/chibayuki/Com/commit/e547ce80c01c443944440aae704c2ca6b1455612).
+* \[2020 Aug 15\] [Com](https://github.com/chibayuki/Com) 20v1 is released, the version number is [20.8.15.1420](https://github.com/chibayuki/Com/releases/tag/20.8.15.1420).
 * \[2020 Jul 10\] A new version of [Hopscotch](https://github.com/chibayuki/Hopscotch) is released, which fixed bugs, not include new features, the version number is [7.1.9](https://github.com/chibayuki/Hopscotch/releases/tag/7.1.17000.1880.R9.200704-1620).
 * \[2020 Jul 10\] A new version of [Gomoku](https://github.com/chibayuki/Gomoku) is released, which fixed bugs, not include new features, the version number is [7.1.19](https://github.com/chibayuki/Gomoku/releases/tag/7.1.17000.7840.R19.200704-1620).
 ###### [Read more……](News_1033.md)
