@@ -40,11 +40,11 @@
 * \[C#\] [4D绘图测试](https://github.com/chibayuki/GraphicsText4D)
 
 ### 其他
-* \[C, C#, Doc\] [AT89S52计算器](https://github.com/chibayuki/AT89S52Calculator)
+* \[C++\] [数独求解算法](https://github.com/chibayuki/SudokuAlgorithm)
+* \[C++\] [全排列](https://github.com/chibayuki/FullPermutation)
 * \[C++\] [引用计数](https://github.com/chibayuki/RefCounter)
 * \[C++\] [序列化](https://github.com/chibayuki/Serialize)
-* \[C++\] [全排列](https://github.com/chibayuki/FullPermutation)
-* \[C++\] [数独求解算法](https://github.com/chibayuki/SudokuAlgorithm)
+* \[C, C#, Doc\] [AT89S52计算器](https://github.com/chibayuki/AT89S52Calculator)
 
 ## 资讯动态
 * 2020年11月11日 周三
