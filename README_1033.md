@@ -40,11 +40,11 @@
 * \[C#\] [Graphics Text 4D](https://github.com/chibayuki/GraphicsText4D)
 
 ### Others
-* \[C, C#, Doc\] [AT89S52 Calculator](https://github.com/chibayuki/AT89S52Calculator)
+* \[C++\] [Sudoku Algorithm](https://github.com/chibayuki/SudokuAlgorithm)
+* \[C++\] [Full Permutation](https://github.com/chibayuki/FullPermutation)
 * \[C++\] [Ref Counter](https://github.com/chibayuki/RefCounter)
 * \[C++\] [Serialize](https://github.com/chibayuki/Serialize)
-* \[C++\] [Full Permutation](https://github.com/chibayuki/FullPermutation)
-* \[C++\] [Sudoku Algorithm](https://github.com/chibayuki/SudokuAlgorithm)
+* \[C, C#, Doc\] [AT89S52 Calculator](https://github.com/chibayuki/AT89S52Calculator)
 
 ## News
 * 2020 Nov 11, Wen
