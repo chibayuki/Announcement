@@ -23,8 +23,9 @@
 * \[C#\] [2048](https://github.com/chibayuki/2048)
 
 ### Tools
-* \[C#\] [Livedesk](https://github.com/chibayuki/Livedesk)
+* \[C#\] [Tree of Life](https://github.com/chibayuki/TreeOfLife)
 * \[C#\] [Color Palette](https://github.com/chibayuki/ColorPalette)
+* \[C#\] [Livedesk](https://github.com/chibayuki/Livedesk)
 * \[C#\] [Factorial Calculator](https://github.com/chibayuki/FactorialCalculator)
 * \[C#\] [Power Calculator](https://github.com/chibayuki/PowerCalculator)
 * \[C#\] [Permutation And Combination](https://github.com/chibayuki/PermutationAndCombination)
@@ -46,9 +47,14 @@
 * \[C++\] [Sudoku Algorithm](https://github.com/chibayuki/SudokuAlgorithm)
 
 ## News
-* \[2020 Aug 15\] [Com](https://github.com/chibayuki/Com) 20v1 is released, the version number is [20.8.15.1420](https://github.com/chibayuki/Com/releases/tag/20.8.15.1420).
-* \[2020 Jul 10\] A new version of [Hopscotch](https://github.com/chibayuki/Hopscotch) is released, which fixed bugs, not include new features, the version number is [7.1.9](https://github.com/chibayuki/Hopscotch/releases/tag/7.1.17000.1880.R9.200704-1620).
-* \[2020 Jul 10\] A new version of [Gomoku](https://github.com/chibayuki/Gomoku) is released, which fixed bugs, not include new features, the version number is [7.1.19](https://github.com/chibayuki/Gomoku/releases/tag/7.1.17000.7840.R19.200704-1620).
+* 2020 Nov 11, Wen
+> We are working on a new projects, [Tree of Life](https://github.com/chibayuki/TreeOfLife), and "M2" Milestone is committed.
+> "M2" Milestone of [Multibody System Simulation](https://github.com/chibayuki/MultibodySystemSimulation) is committed.
+> "M1" Milestone of [Color Palette](https://github.com/chibayuki/ColorPalette) is committed.
+> "RC1" Pre-Rel of [Com](https://github.com/chibayuki/Com) vNext is committed.
+> [Com Performance Test](https://github.com/chibayuki/ComPerfTest) version [20.10.24.1820](https://github.com/chibayuki/ComPerfTest/releases/tag/20.10.24.1820) is released, which is compatible with Com 18.9.28.2200, 19.5.11.1720, 19.10.14.2100 and 20.8.15.1420.
+* 2020 Aug 15, Sat
+> [Com](https://github.com/chibayuki/Com) 20v1 is released, the version number is [20.8.15.1420](https://github.com/chibayuki/Com/releases/tag/20.8.15.1420).
 ###### [Read more……](News_1033.md)
 
 ## Contact Us
