@@ -9,9 +9,10 @@
 * 最后，请获取[Com](https://github.com/chibayuki/Com)。
 
 ## 项目导航
-### 框架
+### 框架&文档
 * \[C#\] [Com](https://github.com/chibayuki/Com)
 * \[Doc\] [Com兼容性报告](https://github.com/chibayuki/ComCmptReport)
+* \[Doc\] [Com性能报告](https://github.com/chibayuki/ComPerfReport)
 * \[C#\] [Windows窗体应用程序模板](https://github.com/chibayuki/WinFormAppTemplate)
 
 ### 游戏
@@ -47,11 +48,12 @@
 * \[C, C#, Doc\] [AT89S52计算器](https://github.com/chibayuki/AT89S52Calculator)
 
 ## 资讯动态
+* 2020年11月12日 周四
+> [Com](https://github.com/chibayuki/Com) vNext RC1发行预览版本已发布，版本号[20.10.27.1900](https://github.com/chibayuki/Com/releases/tag/20.10.27.1900)。
+> [调色板](https://github.com/chibayuki/ColorPalette) M1里程碑版本已发布，版本号[1.0.68.1000.M1.201101-1400](https://github.com/chibayuki/ColorPalette/releases/tag/1.0.68.1000.M1.201101-1400)。
+> [多体系统模拟](https://github.com/chibayuki/MultibodySystemSimulation) M2里程碑版本已发布，版本号[1.0.117.1000.M2.201101-1440](https://github.com/chibayuki/MultibodySystemSimulation/releases/tag/1.0.117.1000.M2.201101-1440)。
+> 正在开发一个新项目[生命树](https://github.com/chibayuki/TreeOfLife)，M2里程碑版本已发布，版本号[1.0.112.1000.M2.201110-2050](https://github.com/chibayuki/TreeOfLife/releases/tag/1.0.112.1000.M2.201110-2050)。
 * 2020年11月11日 周三
-> 正在开发一个新项目[生命树](https://github.com/chibayuki/TreeOfLife)，M2里程碑版本已提交。
-> [多体系统模拟](https://github.com/chibayuki/MultibodySystemSimulation) M2里程碑版本已提交。
-> [调色板](https://github.com/chibayuki/ColorPalette) M1里程碑版本已提交。
-> [Com](https://github.com/chibayuki/Com) vNext RC1发行预览版本已提交。
 > [Com性能测试](https://github.com/chibayuki/ComPerfTest)已发布版本[20.10.24.1820](https://github.com/chibayuki/ComPerfTest/releases/tag/20.10.24.1820)，同时兼容Com的18.9.28.2200、19.5.11.1720、19.10.14.2100、20.8.15.1420版本。
 * 2020年8月15日 周六
 > [Com](https://github.com/chibayuki/Com) 20v1已发布，版本号[20.8.15.1420](https://github.com/chibayuki/Com/releases/tag/20.8.15.1420)。
