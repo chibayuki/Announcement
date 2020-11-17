@@ -14,6 +14,7 @@
 * \[Doc\] [Com兼容性报告](https://github.com/chibayuki/ComCmptReport)
 * \[Doc\] [Com性能报告](https://github.com/chibayuki/ComPerfReport)
 * \[C#\] [Windows窗体应用程序模板](https://github.com/chibayuki/WinFormAppTemplate)
+* \[Doc\] [设计稿](https://github.com/chibayuki/DesignDrafts)
 
 ### 游戏
 * \[C#\] [五子棋](https://github.com/chibayuki/Gomoku)
