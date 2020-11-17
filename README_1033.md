@@ -14,6 +14,7 @@
 * \[Doc\] [Com Compatibility Report](https://github.com/chibayuki/ComCmptReport)
 * \[Doc\] [Com Performance Report](https://github.com/chibayuki/ComPerfReport)
 * \[C#\] [WinForm App Template](https://github.com/chibayuki/WinFormAppTemplate)
+* \[Doc\] [Design Drafts](https://github.com/chibayuki/DesignDrafts)
 
 ### Game
 * \[C#\] [Gomoku](https://github.com/chibayuki/Gomoku)
