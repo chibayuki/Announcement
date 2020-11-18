@@ -4,7 +4,7 @@
 
 ## 开始之前
 * Com是一个支持重要基础功能的DLL，你很可能需要它。
-* 运行或编译我们的程序时，你可能会看到缺少"Com"程序集的提示。
+* 运行或编译我们的程序时，你可能会看到"缺少Com程序集"的提示。
 * 在获取Com程序集之前，你需要知悉所需的正确版本，请参阅[Com兼容性报告](https://github.com/chibayuki/ComCmptReport)。
 * 最后，请获取[Com](https://github.com/chibayuki/Com)。
 
@@ -49,6 +49,8 @@
 * \[C, C#, Doc\] [AT89S52计算器](https://github.com/chibayuki/AT89S52Calculator)
 
 ## 资讯动态
+* 2020年11月18日 周三
+> 正在整理各项目现存的手稿并提交至[设计稿](https://github.com/chibayuki/DesignDrafts)。
 * 2020年11月12日 周四
 > [Com](https://github.com/chibayuki/Com) vNext RC1发行预览版本已发布，版本号[20.10.27.1900](https://github.com/chibayuki/Com/releases/tag/20.10.27.1900)。
 > [调色板](https://github.com/chibayuki/ColorPalette) M1里程碑版本已发布，版本号[1.0.68.1000.M1.201101-1400](https://github.com/chibayuki/ColorPalette/releases/tag/1.0.68.1000.M1.201101-1400)。
@@ -56,8 +58,6 @@
 > 正在开发一个新项目[生命树](https://github.com/chibayuki/TreeOfLife)，M2里程碑版本已发布，版本号[1.0.112.1000.M2.201110-2050](https://github.com/chibayuki/TreeOfLife/releases/tag/1.0.112.1000.M2.201110-2050)。
 * 2020年11月11日 周三
 > [Com性能测试](https://github.com/chibayuki/ComPerfTest)已发布版本[20.10.24.1820](https://github.com/chibayuki/ComPerfTest/releases/tag/20.10.24.1820)，同时兼容Com的18.9.28.2200、19.5.11.1720、19.10.14.2100、20.8.15.1420版本。
-* 2020年8月15日 周六
-> [Com](https://github.com/chibayuki/Com) 20v1已发布，版本号[20.8.15.1420](https://github.com/chibayuki/Com/releases/tag/20.8.15.1420)。
 ###### [查看更多……](News_2052.md)
 
 ## 联系我们
