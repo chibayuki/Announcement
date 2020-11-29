@@ -50,14 +50,13 @@
 
 ## News
 * 2020 Nov 29, Sat
-> "M2" Milestone of [Tree of Life](https://github.com/chibayuki/TreeOfLife) is released, the version number is [1.0.323.1000.M4.201128-1700](https://github.com/chibayuki/TreeOfLife/releases/tag/1.0.323.1000.M4.201128-1700).
+> "M4" Milestone of [Tree of Life](https://github.com/chibayuki/TreeOfLife) is released, the version number is [1.0.323.1000.M4.201128-1700](https://github.com/chibayuki/TreeOfLife/releases/tag/1.0.323.1000.M4.201128-1700).
 * 2020 Nov 18, Wen
 > We are now collecting the drafts of our projects and submitting them to [Design Drafts](https://github.com/chibayuki/DesignDrafts).
 * 2020 Nov 12, Thur
 > "RC1" Pre-Rel of [Com](https://github.com/chibayuki/Com) vNext is released, the version number is [20.10.27.1900](https://github.com/chibayuki/Com/releases/tag/20.10.27.1900).
 > "M1" Milestone of [Color Palette](https://github.com/chibayuki/ColorPalette) is released, the version number is [1.0.68.1000.M1.201101-1400](https://github.com/chibayuki/ColorPalette/releases/tag/1.0.68.1000.M1.201101-1400).
 > "M2" Milestone of [Multibody System Simulation](https://github.com/chibayuki/MultibodySystemSimulation) is released, the version number is [1.0.117.1000.M2.201101-1440](https://github.com/chibayuki/MultibodySystemSimulation/releases/tag/1.0.117.1000.M2.201101-1440).
-> We are working on a new project, [Tree of Life](https://github.com/chibayuki/TreeOfLife), and "M2" Milestone is released, the version number is [1.0.112.1000.M2.201110-2050](https://github.com/chibayuki/TreeOfLife/releases/tag/1.0.112.1000.M2.201110-2050).
 * 2020 Nov 11, Wen
 > [Com Performance Test](https://github.com/chibayuki/ComPerfTest) version [20.10.24.1820](https://github.com/chibayuki/ComPerfTest/releases/tag/20.10.24.1820) is released, which is compatible with Com 18.9.28.2200, 19.5.11.1720, 19.10.14.2100 and 20.8.15.1420.
 ###### [Read more……](News_1033.md)
