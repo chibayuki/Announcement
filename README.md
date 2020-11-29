@@ -49,6 +49,8 @@
 * \[C, C#, Doc\] [AT89S52计算器](https://github.com/chibayuki/AT89S52Calculator)
 
 ## 资讯动态
+* 2020年11月29日 周六
+> [生命树](https://github.com/chibayuki/TreeOfLife)，M4里程碑版本已发布，版本号[1.0.323.1000.M4.201128-1700](https://github.com/chibayuki/TreeOfLife/releases/tag/1.0.323.1000.M4.201128-1700)。
 * 2020年11月18日 周三
 > 正在整理各项目现存的手稿并提交至[设计稿](https://github.com/chibayuki/DesignDrafts)。
 * 2020年11月12日 周四
