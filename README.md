@@ -44,13 +44,11 @@
 ### 其他
 * \[C++\] [数独求解算法](https://github.com/chibayuki/SudokuAlgorithm)
 * \[C++\] [全排列](https://github.com/chibayuki/FullPermutation)
-* \[C++\] [引用计数](https://github.com/chibayuki/RefCounter)
-* \[C++\] [序列化](https://github.com/chibayuki/Serialize)
 * \[C, C#, Doc\] [AT89S52计算器](https://github.com/chibayuki/AT89S52Calculator)
 
 ## 资讯动态
-* 2020年12月5日 周六
-> [生命树](https://github.com/chibayuki/TreeOfLife)，M5里程碑版本已发布，版本号[1.0.415.1000.M5.201204-2200](https://github.com/chibayuki/TreeOfLife/releases/tag/1.0.415.1000.M5.201204-2200)。
+* 2020年12月19日 周六
+> [生命树](https://github.com/chibayuki/TreeOfLife)已基于.NET 5和WPF重构。
 * 2020年11月18日 周三
 > 正在整理各项目现存的手稿并提交至[设计稿](https://github.com/chibayuki/DesignDrafts)。
 * 2020年11月12日 周四
