@@ -25,7 +25,7 @@
 * \[C#\] [2048](https://github.com/chibayuki/2048)
 
 ### 实用工具
-* \[C#\] [生命树](https://github.com/chibayuki/TreeOfLife)
+* \[C#\] [Tree of Life](https://github.com/chibayuki/TreeOfLife)
 * \[C#\] [调色板](https://github.com/chibayuki/ColorPalette)
 * \[C#\] [动态桌面](https://github.com/chibayuki/Livedesk)
 * \[C#\] [阶乘计算器](https://github.com/chibayuki/FactorialCalculator)
@@ -48,7 +48,7 @@
 
 ## 资讯动态
 * 2020年12月19日 周六
-> [生命树](https://github.com/chibayuki/TreeOfLife)已基于.NET 5和WPF重构。
+> [Tree of Life](https://github.com/chibayuki/TreeOfLife)已基于.NET 5和WPF重构。
 * 2020年11月18日 周三
 > 正在整理各项目现存的手稿并提交至[设计稿](https://github.com/chibayuki/DesignDrafts)。
 * 2020年11月12日 周四
