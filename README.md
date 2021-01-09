@@ -47,8 +47,8 @@
 * \[C, C#, Doc\] [AT89S52计算器](https://github.com/chibayuki/AT89S52Calculator)
 
 ## 资讯动态
-* 2020年12月31日 周四
-> [Tree of Life](https://github.com/chibayuki/TreeOfLife) M7里程碑版本已发布，版本号[1.0.708.1000.M7.201230-2100](https://github.com/chibayuki/TreeOfLife/releases/tag/1.0.708.1000.M7.201230-2100)。该版本实现基本的搜索功能。
+* 2021年1月9日 周六
+> [Tree of Life](https://github.com/chibayuki/TreeOfLife) M8里程碑版本已发布，版本号[1.0.812.1000.M8.210108-2100](https://github.com/chibayuki/TreeOfLife/releases/tag/1.0.812.1000.M8.210108-2100)。该版本改进了搜索等功能。
 * 2020年11月18日 周三
 > 正在整理各项目现存的手稿并提交至[设计稿](https://github.com/chibayuki/DesignDrafts)。
 * 2020年11月12日 周四
