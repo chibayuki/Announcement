@@ -47,16 +47,10 @@
 * \[C, C#, Doc\] [AT89S52计算器](https://github.com/chibayuki/AT89S52Calculator)
 
 ## 资讯动态
+* 2021年1月16日 周六
+> [Tree of Life](https://github.com/chibayuki/TreeOfLife) 的版本控制策略已经首次得到验证。下个里程碑版本（M9）将支持并系群与复系群。
 * 2021年1月9日 周六
 > [Tree of Life](https://github.com/chibayuki/TreeOfLife) M8里程碑版本已发布，版本号[1.0.812.1000.M8.210108-2100](https://github.com/chibayuki/TreeOfLife/releases/tag/1.0.812.1000.M8.210108-2100)。该版本改进了搜索等功能。
-* 2020年11月18日 周三
-> 正在整理各项目现存的手稿并提交至[设计稿](https://github.com/chibayuki/DesignDrafts)。
-* 2020年11月12日 周四
-> [Com](https://github.com/chibayuki/Com) vNext RC1发行预览版本已发布，版本号[20.10.27.1900](https://github.com/chibayuki/Com/releases/tag/20.10.27.1900)。
-> [调色板](https://github.com/chibayuki/ColorPalette) M1里程碑版本已发布，版本号[1.0.68.1000.M1.201101-1400](https://github.com/chibayuki/ColorPalette/releases/tag/1.0.68.1000.M1.201101-1400)。
-> [多体系统模拟](https://github.com/chibayuki/MultibodySystemSimulation) M2里程碑版本已发布，版本号[1.0.117.1000.M2.201101-1440](https://github.com/chibayuki/MultibodySystemSimulation/releases/tag/1.0.117.1000.M2.201101-1440)。
-* 2020年11月11日 周三
-> [Com性能测试](https://github.com/chibayuki/ComPerfTest)已发布版本[20.10.24.1820](https://github.com/chibayuki/ComPerfTest/releases/tag/20.10.24.1820)，同时兼容Com的18.9.28.2200、19.5.11.1720、19.10.14.2100、20.8.15.1420版本。
 ###### [查看更多……](News_2052.md)
 
 ## 联系我们
