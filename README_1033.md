@@ -47,16 +47,10 @@
 * \[C, C#, Doc\] [AT89S52 Calculator](https://github.com/chibayuki/AT89S52Calculator)
 
 ## News
+* 2021 Jan 16, Sat
+> The version control of [Tree of Life](https://github.com/chibayuki/TreeOfLife) has been verified for the first time. The next Milestone (M9) will bring paraphyly and polyphyly.
 * 2021 Jan 9, Sat
 > "M8" Milestone of [Tree of Life](https://github.com/chibayuki/TreeOfLife) is released, the version number is [1.0.812.1000.M8.210108-2100](https://github.com/chibayuki/TreeOfLife/releases/tag/1.0.812.1000.M8.210108-2100). This version improves searching and other functions.
-* 2020 Nov 18, Wen
-> We are now collecting the drafts of our projects and submitting them to [Design Drafts](https://github.com/chibayuki/DesignDrafts).
-* 2020 Nov 12, Thur
-> "RC1" Pre-Rel of [Com](https://github.com/chibayuki/Com) vNext is released, the version number is [20.10.27.1900](https://github.com/chibayuki/Com/releases/tag/20.10.27.1900).
-> "M1" Milestone of [Color Palette](https://github.com/chibayuki/ColorPalette) is released, the version number is [1.0.68.1000.M1.201101-1400](https://github.com/chibayuki/ColorPalette/releases/tag/1.0.68.1000.M1.201101-1400).
-> "M2" Milestone of [Multibody System Simulation](https://github.com/chibayuki/MultibodySystemSimulation) is released, the version number is [1.0.117.1000.M2.201101-1440](https://github.com/chibayuki/MultibodySystemSimulation/releases/tag/1.0.117.1000.M2.201101-1440).
-* 2020 Nov 11, Wen
-> [Com Performance Test](https://github.com/chibayuki/ComPerfTest) version [20.10.24.1820](https://github.com/chibayuki/ComPerfTest/releases/tag/20.10.24.1820) is released, which is compatible with Com 18.9.28.2200, 19.5.11.1720, 19.10.14.2100 and 20.8.15.1420.
 ###### [Read more……](News_1033.md)
 
 ## Contact Us
