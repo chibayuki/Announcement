@@ -47,10 +47,8 @@
 * \[C, C#, Doc\] [AT89S52 Calculator](https://github.com/chibayuki/AT89S52Calculator)
 
 ## News
-* 2021 Jan 16, Sat
-> The version control of [Tree of Life](https://github.com/chibayuki/TreeOfLife) has been verified for the first time. The next Milestone (M9) will bring paraphyly and polyphyly.
-* 2021 Jan 9, Sat
-> "M8" Milestone of [Tree of Life](https://github.com/chibayuki/TreeOfLife) is released, the version number is [1.0.812.1000.M8.210108-2100](https://github.com/chibayuki/TreeOfLife/releases/tag/1.0.812.1000.M8.210108-2100). This version improves searching and other functions.
+* 2021 Jan 29, Fri
+> "M9" Milestone of [Tree of Life](https://github.com/chibayuki/TreeOfLife) is released, the version number is [1.0.915.1000.M9.210129-2000](https://github.com/chibayuki/TreeOfLife/releases/tag/1.0.915.1000.M9.210129-2000). This version implements editing and storage of paraphyly and polyphyly. The relevant documents has been submitted to [Design Drafts](https://github.com/chibayuki/DesignDrafts).
 ###### [Read more……](News_1033.md)
 
 ## Contact Us
