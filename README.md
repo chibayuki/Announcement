@@ -47,6 +47,8 @@
 * \[C, C#, Doc\] [AT89S52计算器](https://github.com/chibayuki/AT89S52Calculator)
 
 ## 资讯动态
+* 2021年3月20日 周六
+> 已提交一些[排序算法](https://github.com/chibayuki/SortAlgorithm)的的C++实现。
 * 2021年2月15日 周一
 > 已提交一种类似于WPF[依赖属性与附加属性](https://github.com/chibayuki/Dependency)的的C++实现。
 * 2021年1月29日 周五
