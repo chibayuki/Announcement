@@ -47,6 +47,8 @@
 * \[C, C#, Doc\] [AT89S52 Calculator](https://github.com/chibayuki/AT89S52Calculator)
 
 ## News
+* 2021 Mar 27, Sat
+> We have committed 2 implementations of [String Search Algorithm](https://github.com/chibayuki/StringSearch) by C++.
 * 2021 Mar 20, Sat
 > We have committed some implementations of [Sort Algorithm](https://github.com/chibayuki/SortAlgorithm) by C++.
 * 2021 Feb 15, Mon
