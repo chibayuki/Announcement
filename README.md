@@ -42,13 +42,16 @@
 * \[C#\] [4D绘图测试](https://github.com/chibayuki/GraphicsText4D)
 
 ### 其他
+* \[C++\] [依赖属性与附加属性](https://github.com/chibayuki/Dependency)
+* \[C++\] [排序算法](https://github.com/chibayuki/SortAlgorithm)
+* \[C++\] [字符串检索算法](https://github.com/chibayuki/StringSearchAlgorithm)
 * \[C++\] [数独求解算法](https://github.com/chibayuki/SudokuAlgorithm)
 * \[C++\] [全排列](https://github.com/chibayuki/FullPermutation)
 * \[C, C#, Doc\] [AT89S52计算器](https://github.com/chibayuki/AT89S52Calculator)
 
 ## 资讯动态
 * 2021年3月27日 周六
-> 已提交两种[字符串检索算法](https://github.com/chibayuki/StringSearch)的C++实现。
+> 已提交两种[字符串检索算法](https://github.com/chibayuki/StringSearchAlgorithm)的C++实现。
 * 2021年3月20日 周六
 > 已提交几种[排序算法](https://github.com/chibayuki/SortAlgorithm)的C++实现。
 * 2021年2月15日 周一
