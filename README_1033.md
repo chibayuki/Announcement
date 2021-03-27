@@ -42,13 +42,16 @@
 * \[C#\] [Graphics Text 4D](https://github.com/chibayuki/GraphicsText4D)
 
 ### Others
+* \[C++\] [Dependency Property and Attached Property](https://github.com/chibayuki/Dependency)
+* \[C++\] [Sort Algorithm](https://github.com/chibayuki/SortAlgorithm)
+* \[C++\] [String Search Algorithm](https://github.com/chibayuki/StringSearchAlgorithm)
 * \[C++\] [Sudoku Algorithm](https://github.com/chibayuki/SudokuAlgorithm)
 * \[C++\] [Full Permutation](https://github.com/chibayuki/FullPermutation)
 * \[C, C#, Doc\] [AT89S52 Calculator](https://github.com/chibayuki/AT89S52Calculator)
 
 ## News
 * 2021 Mar 27, Sat
-> We have committed 2 implementations of [String Search Algorithm](https://github.com/chibayuki/StringSearch) by C++.
+> We have committed 2 implementations of [String Search Algorithm](https://github.com/chibayuki/StringSearchAlgorithm) by C++.
 * 2021 Mar 20, Sat
 > We have committed some implementations of [Sort Algorithm](https://github.com/chibayuki/SortAlgorithm) by C++.
 * 2021 Feb 15, Mon
