@@ -47,10 +47,12 @@
 * \[C, C#, Doc\] [AT89S52计算器](https://github.com/chibayuki/AT89S52Calculator)
 
 ## 资讯动态
+* 2021年3月27日 周六
+> 已提交两种[字符串检索算法](https://github.com/chibayuki/StringSearch)的C++实现。
 * 2021年3月20日 周六
-> 已提交一些[排序算法](https://github.com/chibayuki/SortAlgorithm)的的C++实现。
+> 已提交几种[排序算法](https://github.com/chibayuki/SortAlgorithm)的C++实现。
 * 2021年2月15日 周一
-> 已提交一种类似于WPF[依赖属性与附加属性](https://github.com/chibayuki/Dependency)的的C++实现。
+> 已提交一种类似于WPF[依赖属性与附加属性](https://github.com/chibayuki/Dependency)的C++实现。
 * 2021年1月29日 周五
 > [Tree of Life](https://github.com/chibayuki/TreeOfLife) M9里程碑版本已发布，版本号[1.0.915.1000.M9.210129-2000](https://github.com/chibayuki/TreeOfLife/releases/tag/1.0.915.1000.M9.210129-2000)。该版本实现并系群、复系群的编辑与存储，相关资料已提交至[设计稿](https://github.com/chibayuki/DesignDrafts)。
 ###### [查看更多……](News_2052.md)
