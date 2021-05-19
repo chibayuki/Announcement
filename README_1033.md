@@ -51,7 +51,7 @@
 
 ## News
 * 2021 May 19, Wen
-> "M11" Milestone of [Tree of Life](https://github.com/chibayuki/TreeOfLife) is released, the version number is [1.0.1132.1000.M11.210518-2200](https://github.com/chibayuki/TreeOfLife/releases/tag/1.0.1132.1000.M11.210518-2200). This version brings logo, and improves UI experience.
+> "M11" Milestone of [Tree of Life](https://github.com/chibayuki/TreeOfLife) is released, the version number is [1.0.1134.1000.M11.210518-2200](https://github.com/chibayuki/TreeOfLife/releases/tag/1.0.1134.1000.M11.210518-2200). This version brings logo, and improves UI experience.
 * 2021 Mar 27, Sat
 > We have committed 2 implementations of [String Search Algorithm](https://github.com/chibayuki/StringSearchAlgorithm) by C++.
 * 2021 Mar 20, Sat
