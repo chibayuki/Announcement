@@ -51,7 +51,7 @@
 
 ## 资讯动态
 * 2021年5月19日 周三
-> [Tree of Life](https://github.com/chibayuki/TreeOfLife) M11里程碑版本已发布，版本号[1.0.1132.1000.M11.210518-2200](https://github.com/chibayuki/TreeOfLife/releases/tag/1.0.1132.1000.M11.210518-2200)。该版本新增了Logo，并改进了UI体验。
+> [Tree of Life](https://github.com/chibayuki/TreeOfLife) M11里程碑版本已发布，版本号[1.0.1134.1000.M11.210518-2200](https://github.com/chibayuki/TreeOfLife/releases/tag/1.0.1134.1000.M11.210518-2200)。该版本新增了Logo，并改进了UI体验。
 * 2021年3月27日 周六
 > 已提交两种[字符串检索算法](https://github.com/chibayuki/StringSearchAlgorithm)的C++实现。
 * 2021年3月20日 周六
