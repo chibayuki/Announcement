@@ -50,8 +50,8 @@
 * \[C, C#, Doc\] [AT89S52 Calculator](https://github.com/chibayuki/AT89S52Calculator)
 
 ## News
-* 2021 May 19, Wen
-> "M11" Milestone of [Tree of Life](https://github.com/chibayuki/TreeOfLife) is released, the version number is [1.0.1134.1000.M11.210518-2200](https://github.com/chibayuki/TreeOfLife/releases/tag/1.0.1134.1000.M11.210518-2200). This version brings logo, and improves UI experience.
+* 2021 Jul 19, Mon
+> "M12" Milestone of [Tree of Life](https://github.com/chibayuki/TreeOfLife) is released, the version number is [1.0.1240.1000.M12.210718-2000](https://github.com/chibayuki/TreeOfLife/releases/tag/1.0.1240.1000.M12.210718-2000). This version brings age of birth and extinction, and improves search and UI experience.
 * 2021 Mar 27, Sat
 > We have committed 2 implementations of [String Search Algorithm](https://github.com/chibayuki/StringSearchAlgorithm) by C++.
 * 2021 Mar 20, Sat
