@@ -50,14 +50,8 @@
 * \[C, C#, Doc\] [AT89S52 Calculator](https://github.com/chibayuki/AT89S52Calculator)
 
 ## News
-* 2021 Sep 25, Sat
-> "M13" Milestone of [Tree of Life](https://github.com/chibayuki/TreeOfLife) is released, the version number is [1.0.1322.1000.M13.210925-1400](https://github.com/chibayuki/TreeOfLife/releases/tag/1.0.1322.1000.M13.210925-1400)。This version improves theme and other features.
-* 2021 Mar 27, Sat
-> We have committed 2 implementations of [String Search Algorithm](https://github.com/chibayuki/StringSearchAlgorithm) by C++.
-* 2021 Mar 20, Sat
-> We have committed some implementations of [Sort Algorithm](https://github.com/chibayuki/SortAlgorithm) by C++.
-* 2021 Feb 15, Mon
-> We have committed an implementation of [Dependency Property and Attached Property](https://github.com/chibayuki/Dependency) similar to WPF by C++.
+* 2021 Dec 18, Sat
+> "M14" Milestone of [Tree of Life](https://github.com/chibayuki/TreeOfLife) is released, the version number is [1.0.1470.1000.M14.211205-1900](https://github.com/chibayuki/TreeOfLife/releases/tag/1.0.1470.1000.M14.211205-1900). This version brings "Statistics" and "Validation" pages, and improves UI experience.
 ###### [Read more……](News_1033.md)
 
 ## Contact Us
