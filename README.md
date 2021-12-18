@@ -50,14 +50,8 @@
 * \[C, C#, Doc\] [AT89S52计算器](https://github.com/chibayuki/AT89S52Calculator)
 
 ## 资讯动态
-* 2021年9月25日 周六
-> [Tree of Life](https://github.com/chibayuki/TreeOfLife) M13里程碑版本已发布，版本号[1.0.1322.1000.M13.210925-1400](https://github.com/chibayuki/TreeOfLife/releases/tag/1.0.1322.1000.M13.210925-1400)。该版本改进了主题以及其他功能。
-* 2021年3月27日 周六
-> 已提交两种[字符串检索算法](https://github.com/chibayuki/StringSearchAlgorithm)的C++实现。
-* 2021年3月20日 周六
-> 已提交几种[排序算法](https://github.com/chibayuki/SortAlgorithm)的C++实现。
-* 2021年2月15日 周一
-> 已提交一种类似于WPF[依赖属性与附加属性](https://github.com/chibayuki/Dependency)的C++实现。
+* 2021年12月18日 周六
+> [Tree of Life](https://github.com/chibayuki/TreeOfLife) M14里程碑版本已发布，版本号[1.0.1470.1000.M14.211205-1900](https://github.com/chibayuki/TreeOfLife/releases/tag/1.0.1470.1000.M14.211205-1900)。该版本新增了"统计"与"校对"页面，改进了UI体验。
 ###### [查看更多……](News_2052.md)
 
 ## 联系我们
