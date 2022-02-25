@@ -56,5 +56,4 @@
 
 ## 联系我们
 * 邮箱: chibayuki@foxmail.com
-* 微信: chika_chika_meow
 ###### 千夏, 上海, 中国

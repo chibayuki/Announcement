@@ -56,5 +56,4 @@
 
 ## Contact Us
 * E-mail: chibayuki@foxmail.com
-* WeChat: chika_chika_meow
 ###### Chika(千夏), Shanghai, China
